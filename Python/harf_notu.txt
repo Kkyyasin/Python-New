@@ -1,0 +1,243 @@
+
+1-Hatice Günday
+Harf Notu:CB
+
+2-Mustafa Akyürek
+Harf Notu:BB
+
+3-Ramazan Topaloğlu
+Harf Notu:CC
+
+4-Elif Akşit
+Harf Notu:BB
+
+5-Mehmet Düşenkalkar
+Harf Notu:DD
+
+6-Hatice Dağdaş
+Harf Notu:AA
+
+7-Merve Tütüncü
+Harf Notu:FF
+
+8-Hatice Pekkan
+Harf Notu:CB
+
+9-Merve Alyanak
+Harf Notu:CC
+
+10-Meryem Aşıkoğlu
+Harf Notu:CB
+
+11-Süleyman Uluhan
+Harf Notu:CC
+
+12-Esra Ekici
+Harf Notu:FF
+
+13-Emine Kumcuoğlu
+Harf Notu:BB
+
+14-Süleyman Kumcuoğlu
+Harf Notu:DD
+
+15-Şerife Kumcuoğlu
+Harf Notu:CB
+
+16-Sude Tekand
+Harf Notu:BA
+
+17-Elif Nebioğlu
+Harf Notu:FF
+
+18-Sude Berberoğlu
+Harf Notu:CC
+
+19-Yasemin Durmaz
+Harf Notu:DD
+
+20-Fadime Akyürek
+Harf Notu:CB
+
+21-Fatma Akşit
+Harf Notu:BB
+
+22-Emre Sözeri
+Harf Notu:DD
+
+23-Yasemin Kurutluoğlu
+Harf Notu:DD
+
+24-Fatma Akman
+Harf Notu:DD
+
+25-Hacer Korol
+Harf Notu:BB
+
+26-Recep Altınbaş
+Harf Notu:CB
+
+27-Murat Numanoğlu
+Harf Notu:AA
+
+28-Fatih Fahri
+Harf Notu:FF
+
+29-Halil Sarıoğlu
+Harf Notu:CC
+
+30-Merve Arıcan
+Harf Notu:CC
+
+31-İsmail Kaplangı
+Harf Notu:DD
+
+32-Emir Egeli
+Harf Notu:CB
+
+33-Havva Erbulak
+Harf Notu:DD
+
+34-Hacer Okumuş
+Harf Notu:BA
+
+35-Salih Ağaoğlu
+Harf Notu:FF
+
+36-Zeliha Ağaoğlu
+Harf Notu:BB
+
+37-Abdullah Solmaz
+Harf Notu:CC
+
+38-Fatih Elmastaşoğlu
+Harf Notu:DD
+
+39-Hacer Karaer
+Harf Notu:BA
+
+40-Sude Kumcuoğlu
+Harf Notu:DD
+
+41-Abdullah Kuzucu
+Harf Notu:CB
+
+42-Hanife Söyler
+Harf Notu:BB
+
+43-Sude Orbay
+Harf Notu:DD
+
+44-Sultan Uluç
+Harf Notu:BB
+
+45-Hanife Beşok
+Harf Notu:BB
+
+46-Hülya Karadaş
+Harf Notu:CB
+
+47-Fatma Tuğluk
+Harf Notu:DD
+
+48-Halil Güçlü
+Harf Notu:BB
+
+49-Recep Eronat
+Harf Notu:CB
+
+50-Büşra Koyuncu
+Harf Notu:BB
+
+51-Hüseyin Kunt
+Harf Notu:DD
+
+52-Halil Numanoğlu
+Harf Notu:CC
+
+53-Hülya Gürmen
+Harf Notu:BB
+
+54-Ömer Kulaksızoğlu
+Harf Notu:CC
+
+55-Zeliha Demirel
+Harf Notu:BB
+
+56-Mustafa Aşıkoğlu
+Harf Notu:BB
+
+57-Süleyman Orbay
+Harf Notu:BB
+
+58-İbrahim Erez
+Harf Notu:CC
+
+59-Süleyman Koçyiğit
+Harf Notu:CB
+
+60-Salih Orbay
+Harf Notu:FF
+
+61-Şerife Süleymanoğlu
+Harf Notu:BB
+
+62-Murat Adal
+Harf Notu:BB
+
+63-Osman Aybar
+Harf Notu:CB
+
+64-Sude Balcı
+Harf Notu:DD
+
+65-Zeynep Koyuncu
+Harf Notu:CB
+
+66-İbrahim Pekkan
+Harf Notu:FF
+
+67-Fatih Erdoğan
+Harf Notu:DD
+
+68-Abdullah Ekşioğlu
+Harf Notu:FF
+
+69-Osman Adan
+Harf Notu:CB
+
+70-Ramazan Paksüt
+Harf Notu:DD
+
+71-Halil Gökgöz
+Harf Notu:FF
+
+72-Emre Kurutluoğlu
+Harf Notu:BA
+
+73-Mahmut Akışık
+Harf Notu:DD
+
+74-Yusuf Hamzaoğlu
+Harf Notu:BA
+
+75-Ali Akan
+Harf Notu:AA
+
+76-Zeliha Beşerler
+Harf Notu:CB
+
+77-Ali Oraloğlu
+Harf Notu:CC
+
+78-Hanife Poçan
+Harf Notu:CC
+
+79-Ayşe Kurutluoğlu
+Harf Notu:CC
+
+80-Fatih Akman
+Harf Notu:CB
+
+81-Mehmet Babacan
+Harf Notu:DD

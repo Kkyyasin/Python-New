@@ -1,0 +1,243 @@
+
+1-Hatice Günday
+Not:56.0
+
+2-Mustafa Akyürek
+Not:75.0
+
+3-Ramazan Topaloğlu
+Not:47.0
+
+4-Elif Akşit
+Not:68.0
+
+5-Mehmet Düşenkalkar
+Not:43.0
+
+6-Hatice Dağdaş
+Not:86.0
+
+7-Merve Tütüncü
+Not:33.0
+
+8-Hatice Pekkan
+Not:60.0
+
+9-Merve Alyanak
+Not:51.0
+
+10-Meryem Aşıkoğlu
+Not:58.0
+
+11-Süleyman Uluhan
+Not:55.0
+
+12-Esra Ekici
+Not:18.0
+
+13-Emine Kumcuoğlu
+Not:68.0
+
+14-Süleyman Kumcuoğlu
+Not:42.0
+
+15-Şerife Kumcuoğlu
+Not:61.0
+
+16-Sude Tekand
+Not:78.0
+
+17-Elif Nebioğlu
+Not:30.0
+
+18-Sude Berberoğlu
+Not:53.0
+
+19-Yasemin Durmaz
+Not:37.0
+
+20-Fadime Akyürek
+Not:61.0
+
+21-Fatma Akşit
+Not:66.0
+
+22-Emre Sözeri
+Not:38.0
+
+23-Yasemin Kurutluoğlu
+Not:43.0
+
+24-Fatma Akman
+Not:42.0
+
+25-Hacer Korol
+Not:75.0
+
+26-Recep Altınbaş
+Not:65.0
+
+27-Murat Numanoğlu
+Not:91.0
+
+28-Fatih Fahri
+Not:19.0
+
+29-Halil Sarıoğlu
+Not:54.0
+
+30-Merve Arıcan
+Not:46.0
+
+31-İsmail Kaplangı
+Not:37.0
+
+32-Emir Egeli
+Not:62.0
+
+33-Havva Erbulak
+Not:44.0
+
+34-Hacer Okumuş
+Not:79.0
+
+35-Salih Ağaoğlu
+Not:22.0
+
+36-Zeliha Ağaoğlu
+Not:66.0
+
+37-Abdullah Solmaz
+Not:50.0
+
+38-Fatih Elmastaşoğlu
+Not:36.0
+
+39-Hacer Karaer
+Not:78.0
+
+40-Sude Kumcuoğlu
+Not:36.0
+
+41-Abdullah Kuzucu
+Not:58.0
+
+42-Hanife Söyler
+Not:68.0
+
+43-Sude Orbay
+Not:43.0
+
+44-Sultan Uluç
+Not:66.0
+
+45-Hanife Beşok
+Not:74.0
+
+46-Hülya Karadaş
+Not:58.0
+
+47-Fatma Tuğluk
+Not:44.0
+
+48-Halil Güçlü
+Not:66.0
+
+49-Recep Eronat
+Not:56.0
+
+50-Büşra Koyuncu
+Not:67.0
+
+51-Hüseyin Kunt
+Not:43.0
+
+52-Halil Numanoğlu
+Not:55.0
+
+53-Hülya Gürmen
+Not:66.0
+
+54-Ömer Kulaksızoğlu
+Not:48.0
+
+55-Zeliha Demirel
+Not:73.0
+
+56-Mustafa Aşıkoğlu
+Not:75.0
+
+57-Süleyman Orbay
+Not:75.0
+
+58-İbrahim Erez
+Not:49.0
+
+59-Süleyman Koçyiğit
+Not:57.0
+
+60-Salih Orbay
+Not:33.0
+
+61-Şerife Süleymanoğlu
+Not:73.0
+
+62-Murat Adal
+Not:70.0
+
+63-Osman Aybar
+Not:61.0
+
+64-Sude Balcı
+Not:37.0
+
+65-Zeynep Koyuncu
+Not:62.0
+
+66-İbrahim Pekkan
+Not:33.0
+
+67-Fatih Erdoğan
+Not:39.0
+
+68-Abdullah Ekşioğlu
+Not:34.0
+
+69-Osman Adan
+Not:56.0
+
+70-Ramazan Paksüt
+Not:41.0
+
+71-Halil Gökgöz
+Not:35.0
+
+72-Emre Kurutluoğlu
+Not:85.0
+
+73-Mahmut Akışık
+Not:44.0
+
+74-Yusuf Hamzaoğlu
+Not:78.0
+
+75-Ali Akan
+Not:86.0
+
+76-Zeliha Beşerler
+Not:62.0
+
+77-Ali Oraloğlu
+Not:48.0
+
+78-Hanife Poçan
+Not:49.0
+
+79-Ayşe Kurutluoğlu
+Not:50.0
+
+80-Fatih Akman
+Not:57.0
+
+81-Mehmet Babacan
+Not:41.4

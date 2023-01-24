@@ -1,0 +1,105 @@
+
+3-Ramazan Topaloğlu
+Not:47.0
+
+5-Mehmet Düşenkalkar
+Not:43.0
+
+7-Merve Tütüncü
+Not:33.0
+
+12-Esra Ekici
+Not:18.0
+
+14-Süleyman Kumcuoğlu
+Not:42.0
+
+17-Elif Nebioğlu
+Not:30.0
+
+19-Yasemin Durmaz
+Not:37.0
+
+22-Emre Sözeri
+Not:38.0
+
+23-Yasemin Kurutluoğlu
+Not:43.0
+
+24-Fatma Akman
+Not:42.0
+
+28-Fatih Fahri
+Not:19.0
+
+30-Merve Arıcan
+Not:46.0
+
+31-İsmail Kaplangı
+Not:37.0
+
+33-Havva Erbulak
+Not:44.0
+
+35-Salih Ağaoğlu
+Not:22.0
+
+37-Abdullah Solmaz
+Not:50.0
+
+38-Fatih Elmastaşoğlu
+Not:36.0
+
+40-Sude Kumcuoğlu
+Not:36.0
+
+43-Sude Orbay
+Not:43.0
+
+47-Fatma Tuğluk
+Not:44.0
+
+51-Hüseyin Kunt
+Not:43.0
+
+54-Ömer Kulaksızoğlu
+Not:48.0
+
+58-İbrahim Erez
+Not:49.0
+
+60-Salih Orbay
+Not:33.0
+
+64-Sude Balcı
+Not:37.0
+
+66-İbrahim Pekkan
+Not:33.0
+
+67-Fatih Erdoğan
+Not:39.0
+
+68-Abdullah Ekşioğlu
+Not:34.0
+
+70-Ramazan Paksüt
+Not:41.0
+
+71-Halil Gökgöz
+Not:35.0
+
+73-Mahmut Akışık
+Not:44.0
+
+77-Ali Oraloğlu
+Not:48.0
+
+78-Hanife Poçan
+Not:49.0
+
+79-Ayşe Kurutluoğlu
+Not:50.0
+
+81-Mehmet Babacan
+Not:41.4

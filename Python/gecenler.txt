@@ -1,0 +1,138 @@
+
+1-Hatice Günday
+Not:56.0
+
+2-Mustafa Akyürek
+Not:75.0
+
+4-Elif Akşit
+Not:68.0
+
+6-Hatice Dağdaş
+Not:86.0
+
+8-Hatice Pekkan
+Not:60.0
+
+9-Merve Alyanak
+Not:51.0
+
+10-Meryem Aşıkoğlu
+Not:58.0
+
+11-Süleyman Uluhan
+Not:55.0
+
+13-Emine Kumcuoğlu
+Not:68.0
+
+15-Şerife Kumcuoğlu
+Not:61.0
+
+16-Sude Tekand
+Not:78.0
+
+18-Sude Berberoğlu
+Not:53.0
+
+20-Fadime Akyürek
+Not:61.0
+
+21-Fatma Akşit
+Not:66.0
+
+25-Hacer Korol
+Not:75.0
+
+26-Recep Altınbaş
+Not:65.0
+
+27-Murat Numanoğlu
+Not:91.0
+
+29-Halil Sarıoğlu
+Not:54.0
+
+32-Emir Egeli
+Not:62.0
+
+34-Hacer Okumuş
+Not:79.0
+
+36-Zeliha Ağaoğlu
+Not:66.0
+
+39-Hacer Karaer
+Not:78.0
+
+41-Abdullah Kuzucu
+Not:58.0
+
+42-Hanife Söyler
+Not:68.0
+
+44-Sultan Uluç
+Not:66.0
+
+45-Hanife Beşok
+Not:74.0
+
+46-Hülya Karadaş
+Not:58.0
+
+48-Halil Güçlü
+Not:66.0
+
+49-Recep Eronat
+Not:56.0
+
+50-Büşra Koyuncu
+Not:67.0
+
+52-Halil Numanoğlu
+Not:55.0
+
+53-Hülya Gürmen
+Not:66.0
+
+55-Zeliha Demirel
+Not:73.0
+
+56-Mustafa Aşıkoğlu
+Not:75.0
+
+57-Süleyman Orbay
+Not:75.0
+
+59-Süleyman Koçyiğit
+Not:57.0
+
+61-Şerife Süleymanoğlu
+Not:73.0
+
+62-Murat Adal
+Not:70.0
+
+63-Osman Aybar
+Not:61.0
+
+65-Zeynep Koyuncu
+Not:62.0
+
+69-Osman Adan
+Not:56.0
+
+72-Emre Kurutluoğlu
+Not:85.0
+
+74-Yusuf Hamzaoğlu
+Not:78.0
+
+75-Ali Akan
+Not:86.0
+
+76-Zeliha Beşerler
+Not:62.0
+
+80-Fatih Akman
+Not:57.0

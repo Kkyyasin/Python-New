@@ -1,0 +1,15 @@
+import random
+import math
+print(random.random())  # 0 ile 1 arsaında float değer olusturur
+print(random.random()*10)  # 0 10 float deger
+print(int(random.random()*10))
+print(random.randrange(1, 10))  # bu daha iyi
+print(random.randrange(10))
+print(random.randrange(0, 100, 2))  # çift sayı rasgele
+liste = ['ali', 'veli', 'ahmet',
+         'mehmet', 'celal', 'selin', 'nihat']
+print(random.choice(liste))  # rasgele secer
+print(math.pow(10, 2))  # us
+print(math.sqrt(4))  # karekok
+print(math.abs(-1))  # mutlak deger
+print(math.round(4.5))  # yuvarlama
